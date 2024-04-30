@@ -1,0 +1,6 @@
+com/example/crud_learn/serviceImpl/BookServiceImpl.class
+com/example/crud_learn/entities/Book.class
+com/example/crud_learn/controllers/BookController.class
+com/example/crud_learn/services/BookService.class
+com/example/crud_learn/dto/BookDTO.class
+com/example/crud_learn/CrudLearnApplication.class
